@@ -293,8 +293,3 @@ input.button {
   transform: translateY(0);
   display: inline-block;
 }
-
-.press-effect:active {
-  box-shadow: 0 2px #a0480f;
-  transform: translateY(6px);
-}
